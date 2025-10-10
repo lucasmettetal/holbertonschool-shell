@@ -1,2 +1,2 @@
 #!/bin/bash
-id -Gn userName
+su student_jail
