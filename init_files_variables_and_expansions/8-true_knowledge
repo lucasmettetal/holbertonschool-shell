@@ -1,2 +1,2 @@
 #!/bin/bash
-echp $(( 128 + TRUEKNOWLEDGE \n )) 
+echp $(( 128 + TRUEKNOWLEDGE )) 
